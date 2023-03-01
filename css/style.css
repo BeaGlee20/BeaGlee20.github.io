@@ -87,6 +87,7 @@
 
   #info-container {
   display: none;
+  min-height: 100px;
    }
   }
 
